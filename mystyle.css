@@ -10,3 +10,23 @@ body
 	border-radius: 2em;
 	outline: gray dotted thick;
 }
+#name
+{
+	text-align: center;
+	font-size: 1.2em;
+	color: rgb(80,80,80);
+	letter-spacing: 2px;
+}
+#intro
+{
+	text-align: left;
+	max-width: 40%;
+	display: block;
+	margin: auto;
+	font-size: 1em;
+	color: rgb(80,80,80);
+	border: 1px solid rgb(80,80,80);
+	padding:14px;
+	line-height: 200%;
+	letter-spacing:1px;
+}
